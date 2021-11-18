@@ -1,0 +1,369 @@
+2021-10-26 at 14:35:45 CST INFO  autotesting.SampleTestNgTest 28 testHomePageHasAHeader - h1Text:
+2021-10-26 at 15:04:46 CST INFO  autotesting.SampleTestNgTest 28 testHomePageHasAHeader - h1Text:
+2021-10-26 at 15:09:10 CST INFO  autotesting.SampleTestNgTest 28 testHomePageHasAHeader - h1Text:
+2021-10-26 at 15:18:45 CST INFO  autotesting.SampleTestNgTest 28 testHomePageHasAHeader - h1Text:
+2021-10-26 at 15:28:53 CST INFO  autotesting.SampleTestNgTest 28 testHomePageHasAHeader - h1Text:亚米
+2021-10-26 at 15:44:12 CST INFO  autotesting.SampleTestNgTest 32 testHomePageHasAHeader - h1Text:亚米
+2021-10-26 at 17:08:48 CST INFO  autotesting.SampleTestNgTest 32 testHomePageHasAHeader - h1Text:亚米
+2021-10-26 at 17:10:42 CST INFO  autotesting.SampleTestNgTest 32 testHomePageHasAHeader - h1Text:亚米
+2021-10-26 at 17:22:53 CST INFO  autotesting.SampleTestNgTest 32 testHomePageHasAHeader - h1Text:亚米
+2021-10-27 at 15:27:37 CST INFO  autotesting.SampleTestNgTest 32 testHomePageHasAHeader - h1Text:亚米
+2021-10-27 at 16:20:07 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-27 at 17:01:35 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 13:42:52 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 13:51:02 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 13:58:06 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:00:17 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:01:09 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:01:09 CST ERROR com.utilities.ConfigManager 85 loadProperties - Cannot find configuration file - Sys.properties at L:\project\Markin\AUTOTESTING\ConfigFiles\sys.properties
+2021-10-28 at 14:04:11 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:04:11 CST ERROR com.utilities.ConfigManager 85 loadProperties - Cannot find configuration file - Sys.properties at L:\project\Markin\AUTOTESTING\ConfigFiles\sys.properties
+2021-10-28 at 14:07:50 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:16:30 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:16:30 CST ERROR com.utilities.ConfigManager 145 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@2dddc1b9[fileName=testdependency.properties,basePath=L:\project\Markin\AUTOTESTING\ConfigFiles,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@65a5d4f9
+2021-10-28 at 14:16:30 CST ERROR com.utilities.ConfigManager 145 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@41b0ae4c[fileName=testdependency.properties,basePath=L:\project\Markin\AUTOTESTING\ConfigFiles,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@af9a89f
+2021-10-28 at 14:19:36 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:19:36 CST ERROR com.utilities.ConfigManager 145 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@3ece1e79[fileName=testdependency.properties,basePath=L:\project\Markin\AUTOTESTING\ConfigFiles,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@ab20d7c
+2021-10-28 at 14:19:36 CST ERROR com.utilities.ConfigManager 145 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@13f9ad9[fileName=testdependency.properties,basePath=L:\project\Markin\AUTOTESTING\ConfigFiles,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@1b7cae6f
+2021-10-28 at 14:20:56 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:21:08 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:21:09 CST ERROR com.utilities.ConfigManager 145 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@3e48d38[fileName=testdependency.properties,basePath=L:\project\Markin\AUTOTESTING\ConfigFiles,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@7c2b58c0
+2021-10-28 at 14:21:09 CST ERROR com.utilities.ConfigManager 145 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@5c60b0a0[fileName=testdependency.properties,basePath=L:\project\Markin\AUTOTESTING\ConfigFiles,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@7a2b1eb4
+2021-10-28 at 14:21:28 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:21:44 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:21:45 CST ERROR com.utilities.ConfigManager 145 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@3e48d38[fileName=testdependency.properties,basePath=L:\project\Markin\AUTOTESTING\ConfigFiles,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@7c2b58c0
+2021-10-28 at 14:21:45 CST ERROR com.utilities.ConfigManager 145 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@5c60b0a0[fileName=testdependency.properties,basePath=L:\project\Markin\AUTOTESTING\ConfigFiles,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@7a2b1eb4
+2021-10-28 at 14:25:35 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:25:50 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:25:50 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 14:25:50 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 14:25:50 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 14:27:54 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:28:10 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:28:10 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 14:28:10 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 14:28:10 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 14:31:21 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:43:04 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:43:21 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:43:21 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 14:43:21 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 14:43:21 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 14:43:21 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 14:44:05 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:44:16 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:44:17 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 14:44:17 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 14:44:17 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 14:44:17 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 14:45:50 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:46:02 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:46:02 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 14:46:02 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 14:46:02 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 14:46:03 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 14:51:10 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:52:58 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 14:53:08 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 14:53:09 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 14:53:09 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 14:53:09 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 14:53:09 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 15:01:38 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 15:01:49 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 15:01:50 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 15:01:50 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 15:01:50 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 15:01:50 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 15:39:10 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 15:39:29 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 15:39:30 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 15:39:30 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 15:39:30 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 15:39:30 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 15:40:20 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 15:40:30 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 15:40:30 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 15:40:30 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 15:40:30 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 15:40:30 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 16:12:39 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:12:53 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:12:54 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 16:12:54 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 16:12:54 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 16:12:54 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 16:19:58 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:20:11 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:20:11 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 16:20:11 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 16:20:11 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 16:20:11 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 16:25:13 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:25:23 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:25:24 CST ERROR com.utilities.ConfigManager 141 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@5c60b0a0[fileName=usergui.properties,basePath=<null>,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@7a2b1eb4
+2021-10-28 at 16:25:24 CST ERROR com.utilities.ConfigManager 141 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@23f3dbf0[fileName=usergui.properties,basePath=<null>,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@31d6f3fe
+2021-10-28 at 16:29:57 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:30:08 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:30:09 CST ERROR com.utilities.ConfigManager 141 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@11b377c5[fileName=usergui.properties,basePath=<null>,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@7bca6fac
+2021-10-28 at 16:30:09 CST ERROR com.utilities.ConfigManager 141 writeProperty - cannot write to properties file...Could not locate: org.apache.commons.configuration2.io.FileLocator@173797f0[fileName=usergui.properties,basePath=<null>,sourceURL=,encoding=ISO-8859-1,fileSystem=<null>,locationStrategy=<null>][Ljava.lang.StackTraceElement;@3c35c345
+2021-10-28 at 16:34:03 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:34:14 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:34:15 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 16:34:15 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 16:34:15 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 16:34:15 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 16:35:48 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:35:58 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:35:59 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 16:35:59 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 16:35:59 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 16:35:59 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 16:36:42 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:36:52 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:36:53 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 16:36:53 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 16:36:53 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 16:36:53 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 16:46:52 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:47:01 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:47:02 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 16:47:02 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 16:47:02 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 16:47:02 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 16:48:40 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 16:48:52 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 16:48:52 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-28 at 16:48:52 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 16:48:52 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 16:48:52 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 16:48:52 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 17:54:55 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 17:55:47 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 17:56:00 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 17:56:00 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-28 at 17:56:00 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 17:56:00 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 17:56:00 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 17:56:01 CST ERROR com.utilities.ScreenCapture 140 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 17:59:03 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 17:59:03 CST INFO  com.utilities.ScreenCapture 54 startVideoCapture - -------------here-----------------
+2021-10-28 at 17:59:13 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 17:59:14 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-28 at 17:59:14 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 17:59:14 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 17:59:14 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 17:59:14 CST ERROR com.utilities.ScreenCapture 141 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 18:00:20 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 18:00:20 CST INFO  com.utilities.ScreenCapture 54 startVideoCapture - -------------here-----------------
+2021-10-28 at 18:00:20 CST INFO  com.utilities.ScreenCapture 76 startVideoCapture - -------------here-----1------------
+2021-10-28 at 18:00:30 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 18:00:31 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-28 at 18:00:31 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 18:00:31 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 18:00:31 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 18:00:31 CST ERROR com.utilities.ScreenCapture 142 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-28 at 18:01:28 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-28 at 18:01:28 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - -------------here-----------------L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-28 at 18:01:28 CST INFO  com.utilities.ScreenCapture 80 startVideoCapture - -------------here-----1------------
+2021-10-28 at 18:01:38 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-28 at 18:01:38 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-28 at 18:01:38 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-28 at 18:01:38 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-28 at 18:01:38 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-28 at 18:01:39 CST ERROR com.utilities.ScreenCapture 146 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-29 at 10:23:25 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 10:23:25 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - VideosPath-----L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 10:23:42 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 10:23:43 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 10:23:43 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-29 at 10:23:43 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-29 at 10:23:43 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-29 at 10:23:43 CST INFO  com.utilities.ScreenCapture 142 renameCapturedVideoFile - sVideoFileName----testHomePageHasAHeader---oldfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\ScreenRecording 2021-10-29 at 10.23.25.avi---newfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\testHomePageHasAHeader(1).avi---mediaFolder---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 10:23:43 CST ERROR com.utilities.ScreenCapture 146 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-29 at 13:31:27 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 13:31:27 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - VideosPath-----L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:31:42 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 13:31:42 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 13:31:42 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-29 at 13:31:42 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-29 at 13:31:42 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-29 at 13:31:42 CST INFO  com.utilities.ScreenCapture 142 renameCapturedVideoFile - sVideoFileName----testHomePageHasAHeader---oldfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\ScreenRecording 2021-10-29 at 13.31.27.avi---newfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\testHomePageHasAHeader.avi---mediaFolder---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:32:25 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 13:32:25 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - VideosPath-----L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:32:36 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 13:32:37 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 13:32:37 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-29 at 13:32:37 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-29 at 13:32:37 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-29 at 13:32:37 CST INFO  com.utilities.ScreenCapture 142 renameCapturedVideoFile - sVideoFileName----testHomePageHasAHeader---oldfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\ScreenRecording 2021-10-29 at 13.32.25.avi---newfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\testHomePageHasAHeader(1).avi---mediaFolder---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:32:57 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 13:32:57 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - VideosPath-----L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:33:10 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 13:33:11 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 13:33:11 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-29 at 13:33:11 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-29 at 13:33:11 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-29 at 13:33:11 CST INFO  com.utilities.ScreenCapture 142 renameCapturedVideoFile - sVideoFileName----testHomePageHasAHeader---oldfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\ScreenRecording 2021-10-29 at 13.32.57.avi---newfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\testHomePageHasAHeader(1).avi---mediaFolder---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:33:11 CST ERROR com.utilities.ScreenCapture 146 renameCapturedVideoFile - check folder permissions of project folder..
+ cannot rename a screen recording..
+2021-10-29 at 13:48:55 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 13:48:55 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - VideosPath-----L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:49:07 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 13:49:08 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 13:49:08 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-29 at 13:49:08 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-29 at 13:49:08 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-29 at 13:49:08 CST INFO  com.utilities.ScreenCapture 144 renameCapturedVideoFile - sVideoFileName----testHomePageHasAHeader---oldfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\ScreenRecording 2021-10-29 at 13.48.55.avi---newfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\testHomePageHasAHeader 2021-10-29 at 13.48.55.avi---mediaFolder---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:59:42 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 13:59:42 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - VideosPath-----L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:59:56 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 13:59:56 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 13:59:56 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-29 at 13:59:56 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-29 at 13:59:56 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-29 at 13:59:57 CST INFO  com.utilities.ScreenCapture 144 renameCapturedVideoFile - sVideoFileName----testHomePageHasAHeader---oldfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\ScreenRecording 2021-10-29 at 13.59.43.avi---newfile---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\testHomePageHasAHeader 2021-10-29 at 13.59.43.avi---mediaFolder---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 13:59:57 CST INFO  com.listener.TestListener 175 testCaseVideoRecordingLink - sVideoPath--..\Videos\testHomePageHasAHeader(1).avi
+2021-10-29 at 14:11:02 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 14:11:03 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - VideosPath-----L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 14:11:09 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 14:11:15 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 14:11:15 CST ERROR com.listener.TestListener 37 onTestFailure - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+2021-10-29 at 14:11:15 CST ERROR com.listener.TestListener 38 onTestFailure - ERROR ----------testHomePageHasAHeader has failed-----------------
+2021-10-29 at 14:11:15 CST ERROR com.listener.TestListener 39 onTestFailure - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+2021-10-29 at 14:11:15 CST INFO  com.utilities.ScreenCapture 169 saveScreenShot - Saving screenshot of current browser window
+2021-10-29 at 14:11:15 CST ERROR com.utilities.ScreenCapture 181 saveScreenShot - An exception occured while saving screenshot of current browser window..null
+2021-10-29 at 14:11:15 CST INFO  com.listener.TestListener 181 testCaseVideoRecordingLink - sVideoPath2--..\Videos\testHomePageHasAHeader.avi
+2021-10-29 at 14:12:48 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 14:12:48 CST INFO  com.utilities.ScreenCapture 64 startVideoCapture - VideosPath-----L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos
+2021-10-29 at 14:13:00 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 14:13:00 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 14:13:00 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-29 at 14:13:00 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-29 at 14:13:00 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-29 at 14:13:01 CST INFO  com.listener.TestListener 181 testCaseVideoRecordingLink - sVideoPath2--..\Videos\testHomePageHasAHeader.avi
+2021-10-29 at 14:22:49 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-10-29 at 14:22:59 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-10-29 at 14:23:00 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-10-29 at 14:23:00 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-10-29 at 14:23:00 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-10-29 at 14:23:00 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-10-29 at 14:23:00 CST INFO  com.listener.TestListener 182 testCaseVideoRecordingLink - sVideoPath2--L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\Videos\testHomePageHasAHeader.avi---sVideoPath---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\Videos\testHomePageHasAHeader(1).avi
+2021-11-05 at 16:31:32 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-11-05 at 16:33:22 CST INFO  com.listener.TestListener 114 onTestStart - <h2>**************CURRENTLY RUNNING TEST************ testHomePageHasAHeader</h2>
+2021-11-05 at 16:33:38 CST INFO  com.testsuite.HomePageTest 33 testHomePageHasAHeader - h1Text:亚米
+2021-11-05 at 16:33:38 CST INFO  com.utilities.ConfigManager 138 writeProperty - ----Write new property success!
+2021-11-05 at 16:33:38 CST INFO  com.listener.TestListener 91 onTestSuccess - ###############################################################
+2021-11-05 at 16:33:38 CST INFO  com.listener.TestListener 92 onTestSuccess - SUCCESS ---------testHomePageHasAHeader has passed-----------------
+2021-11-05 at 16:33:38 CST INFO  com.listener.TestListener 93 onTestSuccess - ###############################################################
+2021-11-05 at 16:33:39 CST INFO  com.listener.TestListener 182 testCaseVideoRecordingLink - sVideoPath2--L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\Videos\testHomePageHasAHeader.avi---sVideoPath---L:\project\Markin\AUTOTESTING\Automation Reports\LatestResults\Videos\Videos\testHomePageHasAHeader(1).avi
+2021-11-06 at 13:43:52 CST INFO  com.base.BaseSetup 79 initWebDriver - Initiated Webdriver...
+2021-11-06 at 13:43:52 CST INFO  com.base.BaseSetup 81 initWebDriver - Chrome driver location is:L:\project\Markin\AUTOTESTING\Drivers\chromedriver.exe
+2021-11-06 at 13:44:27 CST INFO  com.base.BaseSetup 79 initWebDriver - Initiated Webdriver...
+2021-11-06 at 13:44:27 CST INFO  com.base.BaseSetup 81 initWebDriver - Chrome driver location is:L:\project\Markin\AUTOTESTING\Drivers\chromedriver.exe
+2021-11-06 at 14:01:35 CST INFO  com.base.BaseSetup 79 initWebDriver - Initiated Webdriver...
+2021-11-06 at 14:01:35 CST INFO  com.base.BaseSetup 81 initWebDriver - Chrome driver location is:L:\project\Markin\AUTOTESTING\Drivers\chromedriver.exe
+2021-11-06 at 14:03:53 CST INFO  com.base.BaseSetup 79 initWebDriver - Initiated Webdriver...
+2021-11-06 at 14:03:53 CST INFO  com.base.BaseSetup 81 initWebDriver - Chrome driver location is:L:\project\Markin\AUTOTESTING\Drivers\chromedriver.exe
+2021-11-06 at 14:07:41 CST INFO  com.base.BaseSetup 79 initWebDriver - Initiated Webdriver...
+2021-11-06 at 14:07:41 CST INFO  com.base.BaseSetup 81 initWebDriver - Chrome driver location is:L:\project\Markin\AUTOTESTING\Drivers\chromedriver.exe
+2021-11-06 at 14:07:52 CST INFO  com.testsuite.HomePageTest 35 loadYamiURL - h1Text:亚米
+2021-11-06 at 14:07:52 CST INFO  com.base.BaseSetup 79 initWebDriver - Initiated Webdriver...
+2021-11-06 at 14:07:52 CST INFO  com.base.BaseSetup 81 initWebDriver - Chrome driver location is:L:\project\Markin\AUTOTESTING\Drivers\chromedriver.exe
+2021-11-06 at 14:07:53 CST INFO  com.testsuite.HomePageTest 45 testHomePageHasAHeader - h1Text:亚米
+2021-11-06 at 15:15:46 CST INFO  com.base.ApiBaseSetup 32 initAPI - Initiated api test...
+2021-11-06 at 15:18:16 CST INFO  com.base.ApiBaseSetup 32 initAPI - Initiated api test...
+2021-11-06 at 15:18:16 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:null//ec-customer//users//login
+2021-11-06 at 15:19:30 CST INFO  com.base.ApiBaseSetup 32 initAPI - Initiated api test...
+2021-11-06 at 15:19:30 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:null//ec-customer//users//login
+2021-11-06 at 15:21:08 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:${ecapi.url}
+2021-11-06 at 15:21:08 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...
+2021-11-06 at 15:21:08 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:null//ec-customer//users//login
+2021-11-06 at 15:26:03 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:${ecapi.url}
+2021-11-06 at 15:26:03 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...
+2021-11-06 at 15:26:03 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:null//ec-customer//users//login
+2021-11-06 at 15:27:10 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://www.yamibuy.com
+2021-11-06 at 15:27:10 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...
+2021-11-06 at 15:27:10 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:null//ec-customer//users//login
+2021-11-06 at 15:40:48 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://www.yamibuy.com
+2021-11-06 at 15:40:49 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://www.yamibuy.com
+2021-11-06 at 15:42:06 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:null//ec-customer//users//login
+2021-11-06 at 15:46:02 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 15:46:02 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 15:46:02 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:https://uat-ecapi.yamibuy.tech//ec-customer//users//login
+2021-11-06 at 16:16:42 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:16:42 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:16:42 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:https://uat-ecapi.yamibuy.tech//ec-customer//users//login
+2021-11-06 at 16:23:49 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:23:49 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:23:49 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:https://uat-ecapi.yamibuy.tech//ec-customer//users//login
+2021-11-06 at 16:24:51 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:24:51 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:24:51 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:https://uat-ecapi.yamibuy.tech//ec-customer//users//login
+2021-11-06 at 16:24:53 CST INFO  com.testsuite.ecapi.ECCustomerTest 41 login - response:io.restassured.internal.RestAssuredResponseImpl@456bcb74
+2021-11-06 at 16:26:01 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:26:01 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:26:01 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:https://uat-ecapi.yamibuy.tech//ec-customer//users//login
+2021-11-06 at 16:26:04 CST INFO  com.testsuite.ecapi.ECCustomerTest 41 login - response:200---io.restassured.internal.RestAssuredResponseImpl@456bcb74
+2021-11-06 at 16:29:47 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:29:47 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:29:47 CST INFO  com.testsuite.ecapi.ECCustomerTest 26 login - url:https://uat-ecapi.yamibuy.tech//ec-customer//users//login
+2021-11-06 at 16:29:51 CST INFO  com.testsuite.ecapi.ECCustomerTest 41 login - response:200---{
+    "messageId": "10000",
+    "success": "true",
+    "body": {
+        "uid": 245968,
+        "name": "markin",
+        "avatar": "https://cdn.ybox.com/common/7c90da8fc1285a620ef14c72b0ba6800_0x0.png",
+        "token": "eyJhdXRoIjoiYmU2YzI5NmU0NzkxYzY3ZGI0NjJiZmJkNGQ1MDM5YTIiLCJkYXRhIjoiMjQ1OTY4IiwiZXhwIjoxNjY3NzIzMzkxLCJpc0xvZ2luIjoxLCJzYWx0IjoiNjY5NyJ9",
+        "business_flag": 1,
+        "is_celebrity": 0
+    }
+}
+2021-11-06 at 16:54:30 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:54:30 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:55:29 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:55:29 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:57:02 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 16:57:02 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 17:14:23 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 17:14:23 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-06 at 17:31:05 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-06 at 17:31:05 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-09 at 07:20:11 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-09 at 07:20:11 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech
+2021-11-09 at 07:22:11 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:${ecapi.url}
+2021-11-09 at 07:22:11 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...${ecapi.url}
+2021-11-09 at 07:22:47 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:${ecapi.url}
+2021-11-09 at 07:22:48 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...${ecapi.url}
+2021-11-09 at 07:36:36 CST INFO  com.base.BaseSetup 80 initWebDriver - Initiated Webdriver...
+2021-11-09 at 07:37:30 CST INFO  com.base.BaseSetup 82 initWebDriver - Chrome driver location is:L:\project\Markin\AUTOTESTING\Drivers\chromedriver.exe
+2021-11-09 at 07:37:44 CST INFO  com.testsuite.pc.HomePageTest 34 loadYamiURL - h1Text:亚米
+2021-11-09 at 07:37:44 CST INFO  com.base.BaseSetup 80 initWebDriver - Initiated Webdriver...
+2021-11-09 at 07:37:44 CST INFO  com.base.BaseSetup 82 initWebDriver - Chrome driver location is:L:\project\Markin\AUTOTESTING\Drivers\chromedriver.exe
+2021-11-09 at 07:37:51 CST INFO  com.testsuite.pc.HomePageTest 44 testHomePageHasAHeader - h1Text:亚米
+2021-11-18 at 17:42:51 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:${ecapi.url}
+2021-11-18 at 17:42:51 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...${ecapi.url}
+2021-11-18 at 17:44:15 CST INFO  com.base.ApiBaseSetup 24 initTestSuite - apiBaseUrl:https://uat-ecapi.yamibuy.tech
+2021-11-18 at 17:44:15 CST INFO  com.base.ApiBaseSetup 33 initAPI - Initiated api test...https://uat-ecapi.yamibuy.tech

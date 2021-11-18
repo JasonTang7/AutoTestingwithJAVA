@@ -1,0 +1,1 @@
+sc config gupdate start=disabled
